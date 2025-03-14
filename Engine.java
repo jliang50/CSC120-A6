@@ -2,7 +2,7 @@
  * The engine class represents the locomotive engine that runs on a specific fueltype with a specific fuel level.
  */
 
-public class Engine implements EngineRequirements {
+public class Engine {
 
     // Attributes
     private FuelType f;

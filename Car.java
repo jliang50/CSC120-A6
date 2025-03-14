@@ -3,7 +3,7 @@ import java.util.ArrayList;
 /*
  * The car class represents a car that can carry passengers
  */
-public class Car implements CarRequirements {
+public class Car {
 
     // Attributes
     private ArrayList<Passenger> passengers;

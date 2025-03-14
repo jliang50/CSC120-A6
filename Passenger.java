@@ -1,7 +1,7 @@
 /*
  * The passenger class helps a passenger get on or get off a car.
  */
-public class Passenger implements PassengerRequirements {
+public class Passenger {
 
     private String name;
     /**
